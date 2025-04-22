@@ -1,3 +1,6 @@
 This repository contains the project related to data science.
 
-    The first project is related to database which includes working on a HR database.
+There are three projects in this repository:
+ -  commands on hr dataset in sql
+ -  titanic analysis
+ -  cricket data analysis (EDA)
